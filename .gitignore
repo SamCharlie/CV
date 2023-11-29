@@ -7,3 +7,5 @@
 # Carpetas de dependencias
 /out/
 
+# Permitir archivos .pdf en la carpeta ./out
+!out/*.pdf
